@@ -19,7 +19,7 @@ HTML, CSS, and JavaScript - used for our MVP, contained in the mvp.zip file
 Adobe Photoshop - used to design icons and logos for our concept
 
 # Authors
-Micah Yong
-Sino Oulad Daoud
-Aditya Ramkumar
+Micah Yong ;
+Sino Oulad Daoud ;
+Aditya Ramkumar ;
 Almitra Dabholkar
