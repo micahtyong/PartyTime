@@ -41,3 +41,4 @@ for icons highlighted in blue.
 ## Credits ##
 
 This is an original idea by Micah Yong, Sino Oulad Daoud, Aditya Ramkumar, and Almitra Dabholkar.
+Certain visuals and images within the design are from the movie, Project X (2012). 
