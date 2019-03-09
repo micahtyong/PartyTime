@@ -1,6 +1,6 @@
 # PartyTime #
 
-<img src = "demo/Login.PNG" width = "200">
+<img src = "demo/Login.PNG" width = "500">
 
 PartyTime is a web application concept that allows university students to find fraternity parties in their area in a safe and accessible way.  
 
@@ -19,10 +19,10 @@ This project is mainly a design concept that we hope to implement into an actual
 
 ## Screenshots ##
 
-<img src = "demo/Home.PNG" width = "200">
-<img src = "demo/Info1.PNG" width = "200">
-<img src = "demo/My%20Invites.PNG" width = "200">
-<img src = "demo/Event%20Form.PNG" width = "200">
+<img src = "demo/Home.PNG" width = "300">
+<img src = "demo/Info1.PNG" width = "300">
+<img src = "demo/My%20Invites.PNG" width = "300">
+<img src = "demo/Event%20Form.PNG" width = "300">
 
 ## Technology and frameworks used ##
 
