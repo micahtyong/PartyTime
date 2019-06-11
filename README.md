@@ -42,3 +42,7 @@ for icons highlighted in blue.
 
 This is an original idea by Micah Yong, Sino Oulad Daoud, Aditya Ramkumar, and Almitra Dabholkar.
 Certain visuals and images within the design are from the movie, Project X (2012). 
+
+## Support ## 
+
+If you find any of my projects helpful/inspiring and would like to support us, please do so [here](https://venmo.com/Micah-Yong "Venmo")
